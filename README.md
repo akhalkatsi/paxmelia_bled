@@ -8,6 +8,6 @@
 </head>
 <body>
    <center><h1 >HI BLED</h1>
-   <h4>PZROJECTS</h4></center> 
+   <h4>projects</h4></center> 
 </body>
 </html>
